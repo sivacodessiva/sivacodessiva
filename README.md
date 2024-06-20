@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sivacodessiva
+- 👋 Hi, I’m Siva, Username: @sivacodessiva
 - 👀 I’m interested in Artificial Intelligence, Machine Learning, Data and Neuromorphic Computing
 - 🌱 I’m currently learning the required for attaining knowledge in the above interests.
 - 💞️ I’m looking to collaborate on Interesting Ideas related to AI/ML/DS
